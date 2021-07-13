@@ -1,0 +1,10 @@
+Based on "keras-YOLOv3-model-set" for object detection by david8862
+
+This new version is able to detect both colors and objects with an audio output, intended to help visually impaired people.
+
+Steps:
+
+1. Install all requirement libraries from "requirements.txt" file
+2. Once everything is installed you will need to conect a usb camera and call the python file "yolo.py"
+3. Press "space bar" in your keyboard in order to capture an image
+4. Wait until the program ends with the detection (you will hear the answer). When VLC program closes itself, you will be able to take another picture
